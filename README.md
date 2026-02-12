@@ -1,6 +1,6 @@
 # Housing Price Prediction
 
-Machine learning project predicting California housing prices, based on Chapter 2 of *Hands-On Machine Learning with Scikit-Learn and PyTorch* by Aurélien Géron. ([github.com](https://github.com/gbr-pinna/housing-price-prediction))
+Machine learning project predicting California housing prices, based on Chapter 2 of *Hands-On Machine Learning with Scikit-Learn and PyTorch* by Aurélien Géron.
 
 This repository contains a Jupyter Notebook that walks through a complete machine learning workflow for regression, from data loading and preprocessing to model evaluation and hyperparameter tuning.
 
