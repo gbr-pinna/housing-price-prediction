@@ -26,4 +26,4 @@ This repository contains a Jupyter Notebook that walks through a complete machin
 Install the project dependencies:
 
 ```bash
-pip install scikit-learn pandas numpy matplotlib seaborn joblib
+pip install scikit-learn pandas numpy matplotlib scipy joblib
