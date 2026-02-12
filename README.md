@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook that walks through a complete machin
 
 ## What’s Inside
 
-- Exploration of the California housing dataset
+- Exploration of the California housing dataset (can be downloaded [here](https://github.com/ageron/data/raw/main/housing.tgz))
 - Data cleaning and preprocessing, including handling missing values, scaling numerical features, and encoding categorical features using OneHotEncoder and OrdinalEncoder
 - Feature engineering
 - Train/test split
@@ -26,4 +26,4 @@ This repository contains a Jupyter Notebook that walks through a complete machin
 Install the project dependencies:
 
 ```bash
-pip install scikit-learn pandas numpy matplotlib scipy joblib
+pip install scikit-learn pandas numpy matplotlib seaborn joblib
